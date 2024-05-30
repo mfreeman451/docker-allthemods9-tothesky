@@ -1,4 +1,4 @@
-# [All the Mods 9-0.2.60](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9) on Curseforge
+# [All the Mods - To The Sky 1.0](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9-to-the-sky) on Curseforge
 
 <!-- toc -->
 
