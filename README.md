@@ -62,3 +62,11 @@ If the install is incomplete for some reason.  Deleting the downloaded server fi
 Github: https://github.com/Goobaroo/docker-allthemods9
 
 Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
+
+## Building
+
+```shell
+❯ echo $GITHUB_TOKEN | docker login ghcr.io -u mfreeman451 --password-stdin
+Login Succeeded
+❯ docker buildx build --platform linux/amd64 -t mfreeman451/allthemods9-tothesky:latest --push .
+```
